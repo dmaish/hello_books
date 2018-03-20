@@ -35,7 +35,7 @@
 .card-row{
     height: 10%;
 }
-.book-pic {
+.book-pic{
     width:150px;
     height:200px;
     border-radius: 10%;
@@ -46,4 +46,8 @@
 }
 .container{
     text-align: center;
+}
+.avatar{
+    width: 100px;
+    height: 100px;
 }
